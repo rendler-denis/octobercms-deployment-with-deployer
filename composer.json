@@ -1,0 +1,17 @@
+{
+    "name": "koderhut/octobercms-deploy-script",
+    "description": "A deployment script for the OctoberCMS platform using Deployer.org",
+    "type": "project",
+    "require": {
+        "deployer/deployer": "dev-master",
+        "herzult/php-ssh": "^1.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis-Florin Rendler",
+            "email": "connect@rendler.me"
+        }
+    ],
+    "minimum-stability": "dev"
+}
